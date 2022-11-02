@@ -8,4 +8,4 @@ The following series of notebooks are just a simple sketch for power quality ana
 
 Hope you can find them useful
 
-Luis
+-Luis Angel
